@@ -21,6 +21,7 @@ My List of items to read/practice
 
 ## Videos
   - [x] [Memory in a computer system](https://www.youtube.com/watch?v=F0Ri2TpRBBg)
+  - [x] [Introduction to Binary System](https://www.youtube.com/watch?v=kTcpd4ef2lU)
 
 ## Articles
   - [What is Endianness?](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
