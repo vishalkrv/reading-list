@@ -19,8 +19,8 @@ My List of items to read/practice
    - [ ] Grokking Algorithms - An illustrated guide for programmers and other curious people
    - [ ] System Design Interview – An Insider's Guide by Alex Xu
 
-## Memory
-  - ✅ https://www.youtube.com/watch?v=F0Ri2TpRBBg
+## Videos
+  - ✅ [Memory in a computer system](https://www.youtube.com/watch?v=F0Ri2TpRBBg)
    
 ## Microservices
   - [ ] https://docs.microsoft.com/en-us/azure/architecture/patterns/
