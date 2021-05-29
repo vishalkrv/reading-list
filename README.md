@@ -5,7 +5,7 @@ My List of items to read/practice
 ## Practice
 - AlgoExpert
   - [ ] System Design
-     - ✅ System Design Fundamentals
+     - [x] System Design Fundamentals
      - [ ] System Design Quiz
      - [ ] System Design Questions
   - [ ] Algorithms
@@ -20,7 +20,10 @@ My List of items to read/practice
    - [ ] System Design Interview – An Insider's Guide by Alex Xu
 
 ## Videos
-  - ✅ [Memory in a computer system](https://www.youtube.com/watch?v=F0Ri2TpRBBg)
+  - [x] [Memory in a computer system](https://www.youtube.com/watch?v=F0Ri2TpRBBg)
+
+## Articles
+  - [What is Endianness?](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
    
 ## Microservices
   - [ ] https://docs.microsoft.com/en-us/azure/architecture/patterns/
