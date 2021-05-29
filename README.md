@@ -22,9 +22,11 @@ My List of items to read/practice
 ## Videos
   - [x] [Memory in a computer system](https://www.youtube.com/watch?v=F0Ri2TpRBBg)
   - [x] [Introduction to Binary System](https://www.youtube.com/watch?v=kTcpd4ef2lU)
+  - [x] [Big-O notation in 5 minutes — The basics](https://www.youtube.com/watch?v=__vX2sjlpXU)
 
 ## Articles
   - [What is Endianness?](https://www.freecodecamp.org/news/what-is-endianness-big-endian-vs-little-endian/)
+  - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
    
 ## Microservices
   - [ ] https://docs.microsoft.com/en-us/azure/architecture/patterns/
