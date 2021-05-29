@@ -5,7 +5,7 @@ My List of items to read/practice
 ## Practice
 - AlgoExpert
   - [ ] System Design
-     - [x] System Design Fundamentals
+     - ✅ System Design Fundamentals
      - [ ] System Design Quiz
      - [ ] System Design Questions
   - [ ] Algorithms
